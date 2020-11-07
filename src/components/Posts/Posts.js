@@ -40,6 +40,7 @@ export default function Posts() {
         <Header.Subheader>
           <a
             target='_blank'
+            rel='noopener noreferrer'
             href='https://github.com/kasim444/blog-with-sanity'>
             Source Code
           </a>
